@@ -3,10 +3,19 @@
 pkg update && pkg upgrade
 pkg install wget
 pkg install zip
+pkg Install toilet
+pkg install git
+echo
+toilet start
+toilet download
+toilet ngrok
 echo
 echo "ngrok is downloading......"
 echo
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+echo
+toilet start
+toilet extrax ngrok
 echo
 echo "extracting file ........"
 echo
