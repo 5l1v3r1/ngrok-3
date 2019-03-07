@@ -24,6 +24,6 @@ echo " hapus fie zip...... "
 echo
 rm ngrok-stable-linux-arm.zip
 echo
-cp -r ngrok $HOME
+echo " Siap digunakan...... "
 echo
 
