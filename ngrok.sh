@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-pkg update && pkg upgrade
-pkg install wget
-pkg install zip
-pkg install toilet
+pkg update && pkg upgrade -y
+pkg install wget -y
+pkg install zip -y
+pkg install toilet -y
 echo
 toilet start
 toilet download
@@ -26,6 +26,7 @@ rm ngrok-stable-linux-arm.zip
 echo
 echo
 cp -r ngrok.sh $HOME
+cd $HOME
 echo
 echo " hapus fie ngrok...... "
 echo
