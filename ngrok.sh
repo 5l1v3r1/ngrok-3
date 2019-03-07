@@ -27,8 +27,9 @@ echo
 echo
 cp -r ngrok.sh $HOME
 echo
+echo " hapus fie ngrok...... "
 echo
 rm ngrok.sh
 rm ngrok
 echo
-echo
+
