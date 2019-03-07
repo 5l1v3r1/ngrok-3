@@ -24,13 +24,6 @@ echo " hapus fie zip...... "
 echo
 rm ngrok-stable-linux-arm.zip
 echo
-echo
 cp -r ngrok.sh $HOME
-cd $HOME
-echo
-echo " hapus fie ngrok...... "
-echo
-rm ngrok.sh
-rm ngrok
 echo
 
