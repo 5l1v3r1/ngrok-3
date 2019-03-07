@@ -24,10 +24,10 @@ My Facebok : https://web.facebook.com/xroot.xroot.7
 
 # Regard Boychongzen aka Xroot
 
-Download dan Install Otomatis
+# Download dan Install Otomatis
 
 ![be](https://github.com/boychongzen18/ngrok/blob/master/ngrok.png)
 
-Tanpa VPN sudah Online
+# Tanpa VPN sudah Online
 
 ![be](https://raw.githubusercontent.com/boychongzen18/ngrok/master/ngrok_online.png)
