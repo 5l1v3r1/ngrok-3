@@ -1,4 +1,4 @@
-# Download ngrok
+# Download Otomatis Ngrok
 
 pkg update && pkg upgarde
 
