@@ -26,9 +26,6 @@ echo
 rm ngrok-stable-linux-arm.zip
 echo
 echo
+cp -r ngrok $HOME
 echo
-echo  " ====================================== "
-echo    subscribe & like my channel youtube
-echo      regard,,boychongzen aka x-root
-echo  " ====================================== "
 echo
