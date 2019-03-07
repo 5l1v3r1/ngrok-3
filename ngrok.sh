@@ -3,8 +3,7 @@
 pkg update && pkg upgrade
 pkg install wget
 pkg install zip
-pkg Install toilet
-pkg install git
+pkg install toilet
 echo
 toilet start
 toilet download
@@ -26,6 +25,10 @@ echo
 rm ngrok-stable-linux-arm.zip
 echo
 echo
-cp -r ngrok $HOME
+cp -r ngrok.sh $HOME
+echo
+echo
+rm ngrok.sh
+rm ngrok
 echo
 echo
