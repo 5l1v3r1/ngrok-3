@@ -1,9 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 pkg update && pkg upgrade -y
-pkg install wget -y
-pkg install zip -y
-pkg install toilet -y
+pkg install -y zip wget toilet
 echo
 toilet start
 toilet download
